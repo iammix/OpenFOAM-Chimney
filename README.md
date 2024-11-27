@@ -1,4 +1,3 @@
-Here's the revised README file that incorporates the presence of a Python GUI for executing the simulation:
 
 ---
 
